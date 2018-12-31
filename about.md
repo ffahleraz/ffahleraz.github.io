@@ -3,7 +3,9 @@ layout: page
 title: About Me
 ---
 
-Computer Science Undergraduate, Institut Teknologi Bandung, Indonesia. Lives in Bandung too, of course. Likes to read and is learning to write, apparently.
+<span class="lead">Faza Fahleraz</span>
+
+Computer Science Undergraduate, Institut Teknologi Bandung, Indonesia. Kinda likes to read and is learning to write, apparently.
 
 And also, here's a bunch of links:
 
